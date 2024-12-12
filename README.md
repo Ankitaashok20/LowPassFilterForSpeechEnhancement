@@ -12,6 +12,7 @@ different low pass filter designs improve speech clarity and
 understanding. The project aims to provide practical recommendations
 for implementing low pass filters in real-world
 speech enhancement systems.
+
 Here,we are using three techniques for speech Enhancement:
 a).Low Pass Filter
 b).Spectral Subtraction
